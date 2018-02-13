@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+	i := 2
 	switch i {
 	case 0:
 		fmt.Println("Zero")
