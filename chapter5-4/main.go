@@ -14,14 +14,14 @@ func main() {
 		fmt.Scanf("%d\n", &input)
 
 		if input == i {
-			fmt.Println("เจอแล้ว Correct ", i, "!")
+			fmt.Println("เจอแล้ว Correct, คำตอบคือ Answer is ", i, "!")
 			return
 		}
-		if input < i {
-			fmt.Println("มากไป Input is lesser than.")
-		}
 		if input > i {
-			fmt.Println("น้อยไป Input is more than.")
+			fmt.Println("มากไป Result is lesser than.")
+		}
+		if input < i {
+			fmt.Println("น้อยไป Result is more than.")
 		}
 
 	}
