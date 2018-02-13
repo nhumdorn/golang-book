@@ -15,3 +15,7 @@
 ## Chapter 4
 * Chapter 4 - 1 Short Long variable 
 * Chapter 4 - 2 Convert Tempurature with 2 decimal limit
+
+## Chapter 5
+* Chapter 5 - 1 Condition 1
+* Chapter 5 - 2 Condition 2 (Fizz Buss)
