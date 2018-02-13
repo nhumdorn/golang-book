@@ -20,3 +20,4 @@
 * Chapter 5 - 1 Condition 1 (Simple If)
 * Chapter 5 - 2 Condition 2 (For Loop + If + Fizz Buss)
 * Chapter 5 - 3 Condition 3 (Switch)
+* Chapter 5 - 4 Excercise (Random + Guess Input)
