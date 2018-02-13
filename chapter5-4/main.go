@@ -25,4 +25,5 @@ func main() {
 		}
 
 	}
+	fmt.Println("เกินพอ More than 5 times! QUIT!")
 }
