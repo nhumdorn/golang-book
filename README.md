@@ -21,3 +21,9 @@
 * Chapter 5 - 2 Condition 2 (For Loop + If + Fizz Buss)
 * Chapter 5 - 3 Condition 3 (Switch)
 * Chapter 5 - 4 Excercise (Random + Guess Input)
+
+## Chapter 6
+* Chapter 6 - 1 Function ส่งทะลุทะลวงระหว่าง function
+* Chapter 6 - 2 Function กำหนดสิ่งที่จะ return ให้ function
+* Chapter 6 - 3 Function คืนค่าหลายตัวแปร
+* Chapter 6 - 4 Function รับค่าได้ไม่จำกัด
