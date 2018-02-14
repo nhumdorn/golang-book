@@ -27,3 +27,17 @@
 * Chapter 6 - 2 Function กำหนดสิ่งที่จะ return ให้ function
 * Chapter 6 - 3 Function คืนค่าหลายตัวแปร
 * Chapter 6 - 4 Function รับค่าได้ไม่จำกัด
+* Chapter 6 - 5 Excecise (Fizz Buzz using Function)
+
+## Chapter 7
+* Chapter 7 - 1
+* Chapter 7 - 2
+* Chapter 7 - 3
+* Chapter 7 - 4
+* Chapter 7 - 5
+* Chapter 7 - 6
+* Chapter 7 - 7
+* Chapter 7 - 8
+* Chapter 7 - 9
+* Chapter 7 - 10
+* Chapter 7 - 11
