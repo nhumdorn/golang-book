@@ -41,3 +41,6 @@
 * Chapter 7 - 9
 * Chapter 7 - 10
 * Chapter 7 - 11
+
+## Exercise
+* แสดงอุณหภูมิผ่าน TERMINAL
