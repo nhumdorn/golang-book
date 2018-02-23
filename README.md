@@ -42,5 +42,17 @@
 * Chapter 7 - 10
 * Chapter 7 - 11
 
+## Chapter 8
+* Chapter 8 - 1
+* Chapter 8 - 2
+* Chapter 8 - 3
+* Chapter 8 - 4
+* Chapter 8 - 5
+* Chapter 8 - 6
+
+## Chapter 9
+* Chapter 9 - 1
+
 ## Exercise
 * แสดงอุณหภูมิผ่าน TERMINAL
+* Vending Machine (ยังไม่ได้ทำ)
