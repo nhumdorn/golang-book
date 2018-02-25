@@ -62,4 +62,4 @@
 
 ## Exercise
 * แสดงอุณหภูมิผ่าน TERMINAL
-* Vending Machine (ยังไม่ได้ทำ)
+* Vending Machine - ทำเสร็จแล้ว
