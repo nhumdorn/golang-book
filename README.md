@@ -52,6 +52,7 @@
 
 ## Chapter 9
 * Chapter 9 - 1
+* Chapter 9 - 2
 
 ## Exercise
 * แสดงอุณหภูมิผ่าน TERMINAL
