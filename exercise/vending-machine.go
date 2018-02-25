@@ -89,6 +89,9 @@ func (c *NewVendingMachine) Reset() {
 	c.coins.two = 0
 	c.coins.one = 0
 	c.coins.sum = 0
+	c.items.CC = 0
+	c.items.DW = 0
+	c.items.SD = 0
 }
 
 // UpdateMoney is
