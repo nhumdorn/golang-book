@@ -63,3 +63,8 @@
 ## Exercise
 * แสดงอุณหภูมิผ่าน TERMINAL
 * Vending Machine - ทำเสร็จแล้ว
+
+## Exercise_2
+* The Return of Vending Machine
+
+
