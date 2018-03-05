@@ -60,6 +60,10 @@
 ## Chapter 11
 * Chapter 11 - 1
 
+## Chapter 12
+* Chapter 12 - 1 Functional Programming
+* Chapter 12 - 2 Functional Programming
+
 ## Exercise
 * แสดงอุณหภูมิผ่าน TERMINAL
 * Vending Machine - ทำเสร็จแล้ว
