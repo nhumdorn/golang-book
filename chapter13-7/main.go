@@ -11,6 +11,7 @@ var (
 	mu sync.Mutex
 )
 func main() {
+	
 	wg.Add(16)
 	for i:=1; i< 17; i++ {
 		go increment(i)
