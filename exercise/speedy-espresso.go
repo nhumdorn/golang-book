@@ -29,18 +29,18 @@ func order(volumn int) (container [] string) {
 // cashier receive order
 func receiveOrder(number int) string {
 	time.Sleep(5 * time.Millisecond)
-	coffee := fmt.Sprintf("order: %d", number)
+	return fmt.Sprintf("order: %d", number)
 }
 		
 // barista brew coffee
 func brew(order string) string {
 	time.Sleep(100 * time.Millisecond)
-	coffee := fmt.Sprintf("%s %s", order, "esspresso")
+	return fmt.Sprintf("%s %s", order, "esspresso")
 }
 
 //waiter serve coffee
-func serve(coffee string) (containerx string) {
+func serve(coffee string) string {
 	time.Sleep(5 * time.Millisecond)
-	containerx = append(coffee, fmt.Sprintf("%s %s", coffee, "ready :)"))
+	return fmt.Sprintf("%s %s", coffee, "ready :)")
 }
 
